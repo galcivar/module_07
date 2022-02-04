@@ -1,18 +1,31 @@
-# Housing Rental Analysis for San Francisco
-### Task 
-Using data visualization skills, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
+# ETF Analyzer
+### Instructions:
+
+Use this notebook to complete your analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database, which the Starter_Code folder also contains.
+
+Analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application by using the Voilà library.
+
+The detailed instructions are divided into the following parts:
+
+Analyze a single asset in the ETF
+
+Optimize data access with Advanced SQL queries
+
+Analyze the ETF portfolio
+
+Deploy the notebook as a web application
 
 ---
 
 ## Installation Guide
-1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_06.git`
+1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_07.git`
 2. Install Python you should follow this instructions depending on you OS: https://realpython.com/installing-python/
 
 ---
 
 ## Usage
-You can use this program by navigating to the folder of the project (where app.py is) and run:
-`jupiter lab` then open the `san_francisco_housing.ipynb` file in Jupiter Lab
+You can use this program by navigating to the folder of the project and run:
+`voila etf_analyzer.ipynb` file in the terminal
 
 ---
 
