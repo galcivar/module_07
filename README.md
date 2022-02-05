@@ -25,7 +25,7 @@ Deploy the notebook as a web application
 
 ## Usage
 You can use this program by navigating to the folder of the project and run:
-`voila etf_analyzer.ipynb` file in the terminal
+`voila etf_analyzer.ipynb` in the terminal
 
 ---
 
